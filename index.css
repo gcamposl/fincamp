@@ -1,0 +1,20 @@
+.badge {
+  border-radius: 5px;
+  font-weight: bold;
+  color: #fff;
+  padding: 0.3rem;
+}
+
+ul li {
+  margin-bottom: 2rem;
+}
+
+.class-a {
+  background: rgb(200, 25, 25);
+}
+.class-b {
+  background: rgb(189, 200, 25);
+}
+.class-c {
+  background: rgb(31, 182, 26);
+}
